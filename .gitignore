@@ -1,0 +1,9 @@
+.vscode
+.VSCodeCounter
+*.sh
+*.arm64
+core/obj
+core/bin
+control/obj
+control/bin
+doc
